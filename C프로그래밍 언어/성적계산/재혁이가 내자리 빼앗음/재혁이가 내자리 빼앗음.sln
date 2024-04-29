@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "재혁이가 내자리 빼앗음", "재혁이가 내자리 빼앗음\재혁이가 내자리 빼앗음.vcxproj", "{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Debug|x64.ActiveCfg = Debug|x64
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Debug|x64.Build.0 = Debug|x64
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Debug|x86.Build.0 = Debug|Win32
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Release|x64.ActiveCfg = Release|x64
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Release|x64.Build.0 = Release|x64
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Release|x86.ActiveCfg = Release|Win32
+		{3DED5D0B-95CE-49AC-8A91-DC09DE05AC66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A9E7FC-248A-44F5-96CE-BE3128DBD70E}
+	EndGlobalSection
+EndGlobal
